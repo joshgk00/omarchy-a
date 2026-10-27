@@ -6,7 +6,9 @@ pacman
 sudo
 python
 labwc
+xorg-xwayland
 quickshell
+inotify-tools
 qt6-imageformats
 foot
 ttf-dejavu
